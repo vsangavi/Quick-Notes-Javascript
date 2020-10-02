@@ -9,8 +9,8 @@ Example:
 > return (accumulator + currentValue)};
 > console.log(array1.reduce(reducer));
 
-In this example we use reduce function.
-What does it do?\
+In this example we use reduce function. \
+What does it do?
 
 1. It has a callback as an argument.
 2. That call back functions mainly have accumulator and the current value .
